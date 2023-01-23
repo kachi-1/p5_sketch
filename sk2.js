@@ -1,6 +1,6 @@
 /** This function sets up our sketch. */
 function setup() {
-    createCanvas(500, 500);
+    createCanvas(400, 400);
     frameRate(60);
 }
 
